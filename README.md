@@ -1,5 +1,12 @@
 # polygonio_data_puller
-polygon.io data puller
+###polygon.io data puller
+
+###most inspirational
+#Abhishek Gupta
+#https://greyhoundanalytics.com/blog/scraping-crypto-price-data-from-polygonio/
+
+
+
 
 Type in an asset.
 
